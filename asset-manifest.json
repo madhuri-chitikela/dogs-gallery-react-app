@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dogs-gallery-react-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/dogs-gallery-react-app/static/js/main.740f0035.chunk.js",
+    "main.js.map": "/dogs-gallery-react-app/static/js/main.740f0035.chunk.js.map",
+    "runtime-main.js": "/dogs-gallery-react-app/static/js/runtime-main.52b78f38.js",
+    "runtime-main.js.map": "/dogs-gallery-react-app/static/js/runtime-main.52b78f38.js.map",
+    "static/js/2.e39e4612.chunk.js": "/dogs-gallery-react-app/static/js/2.e39e4612.chunk.js",
+    "static/js/2.e39e4612.chunk.js.map": "/dogs-gallery-react-app/static/js/2.e39e4612.chunk.js.map",
+    "static/js/3.45d03f8b.chunk.js": "/dogs-gallery-react-app/static/js/3.45d03f8b.chunk.js",
+    "static/js/3.45d03f8b.chunk.js.map": "/dogs-gallery-react-app/static/js/3.45d03f8b.chunk.js.map",
+    "index.html": "/dogs-gallery-react-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dogs-gallery-react-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e39e4612.chunk.js.LICENSE.txt": "/dogs-gallery-react-app/static/js/2.e39e4612.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dogs-gallery-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b78f38.js",
+    "static/js/2.e39e4612.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.740f0035.chunk.js"
+  ]
+}
